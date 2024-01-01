@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\ITEC_FINAL_CONSOLE_APP\ITEC_FINAL_CONSOLE_APP\obj\Debug\net6.0\ITEC_FINAL_CONSOLE_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\ITEC_FINAL_CONSOLE_APP\ITEC_FINAL_CONSOLE_APP\obj\Debug\net6.0\ITEC_FINAL_CONSOLE_APP.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\ITEC_FINAL_CONSOLE_APP\ITEC_FINAL_CONSOLE_APP\obj\Debug\net6.0\ITEC_FINAL_CONSOLE_APP.AssemblyInfo.cs
+C:\Users\crist\source\repos\ITEC_FINAL_CONSOLE_APP\ITEC_FINAL_CONSOLE_APP\obj\Debug\net6.0\ITEC_FINAL_CONSOLE_APP.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\ITEC_FINAL_CONSOLE_APP\ITEC_FINAL_CONSOLE_APP\bin\Debug\net6.0\ITEC_FINAL_CONSOLE_APP.exe
+C:\Users\crist\source\repos\ITEC_FINAL_CONSOLE_APP\ITEC_FINAL_CONSOLE_APP\bin\Debug\net6.0\ITEC_FINAL_CONSOLE_APP.deps.json
+C:\Users\crist\source\repos\ITEC_FINAL_CONSOLE_APP\ITEC_FINAL_CONSOLE_APP\bin\Debug\net6.0\ITEC_FINAL_CONSOLE_APP.runtimeconfig.json
+C:\Users\crist\source\repos\ITEC_FINAL_CONSOLE_APP\ITEC_FINAL_CONSOLE_APP\bin\Debug\net6.0\ITEC_FINAL_CONSOLE_APP.dll
+C:\Users\crist\source\repos\ITEC_FINAL_CONSOLE_APP\ITEC_FINAL_CONSOLE_APP\bin\Debug\net6.0\ITEC_FINAL_CONSOLE_APP.pdb
+C:\Users\crist\source\repos\ITEC_FINAL_CONSOLE_APP\ITEC_FINAL_CONSOLE_APP\obj\Debug\net6.0\ITEC_FINAL_CONSOLE_APP.dll
+C:\Users\crist\source\repos\ITEC_FINAL_CONSOLE_APP\ITEC_FINAL_CONSOLE_APP\obj\Debug\net6.0\refint\ITEC_FINAL_CONSOLE_APP.dll
+C:\Users\crist\source\repos\ITEC_FINAL_CONSOLE_APP\ITEC_FINAL_CONSOLE_APP\obj\Debug\net6.0\ITEC_FINAL_CONSOLE_APP.pdb
+C:\Users\crist\source\repos\ITEC_FINAL_CONSOLE_APP\ITEC_FINAL_CONSOLE_APP\obj\Debug\net6.0\ITEC_FINAL_CONSOLE_APP.genruntimeconfig.cache
+C:\Users\crist\source\repos\ITEC_FINAL_CONSOLE_APP\ITEC_FINAL_CONSOLE_APP\obj\Debug\net6.0\ref\ITEC_FINAL_CONSOLE_APP.dll
